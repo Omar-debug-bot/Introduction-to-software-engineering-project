@@ -1,4 +1,4 @@
-# Nutrition Tracker
+# 🥗 Nutrition Tracker
 
 A dual-role nutrition tracking platform connecting users with nutritionists. 
 Users complete a guided onboarding profile (goals, activity level, training 
@@ -40,4 +40,4 @@ This was built as a team project for the Software Engineering course at AAST
 
 ## How to Run
 1. Clone this repo
-2. Open `Nutritiontracker.html` directly in your browser — no build step or server required
+2. Open `Nutritiontracker.html` directly in
